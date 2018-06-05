@@ -2,10 +2,11 @@
 <html>
 <head>
 	<title>
-		PAGINA DE INICIO
+		wendy trujillo
 	</title>
 </head>
 <body>
-ACCESO A TODOS LOS USUARIOS
+<h1>somos convenio sena </h1>
+</body>
 </body>
 </html>
